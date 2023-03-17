@@ -13,6 +13,7 @@ These commands will create a folder `data` in the root directory, then run the f
 
 **Note** : the commands above might need your hugging face credentials, the data is in the hugging face web site.
 
+
 ```bash
 $ unzip data/train.zip -d data              # Train data
 $ unzip data/test.zip -d data               # Test data
